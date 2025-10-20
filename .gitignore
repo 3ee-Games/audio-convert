@@ -1,0 +1,17 @@
+*.annot
+*.cmo
+*.cma
+*.cmi
+*.a
+*.o
+*.cmx
+*.cmxs
+*.cmxa
+ttetris
+gtetris
+._d/*
+
+.merlin
+otetris.install
+
+_build/

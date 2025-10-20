@@ -1,0 +1,4 @@
+(executable
+ (public_name audio-convert)
+ (name audio_convert)
+ (libraries unix))
