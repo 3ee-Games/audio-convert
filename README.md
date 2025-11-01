@@ -1,6 +1,6 @@
 # Audio Convert
 
-A OCaml CLI tool to convert audio files (.wav, .aif, .aiff, .flac) to .mp3 and .ogg using ffmpeg, with optional silence trimming.
+A OCaml CLI tool to convert audio files (.wav, .aif, .aiff, .flac, .m4a) to .mp3 and .ogg using ffmpeg, with optional silence trimming.
 
 ## Requirements
 

@@ -47,7 +47,7 @@ let () =
 
 let is_supported_ext path =
   let ext = String.lowercase_ascii (Filename.extension path) in
-  List.mem ext [".wav"; ".aif"; ".aiff"; ".flac"]
+  List.mem ext [".wav"; ".aif"; ".aiff"; ".flac"; ".m4a"]
 
 let rec mkdir_p path =
   if Sys.file_exists path then ()
